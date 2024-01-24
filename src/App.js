@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import './font.css';
-
+import hinh from './picture/NOZD0388.jpg'
 function Header({ isDarkMode, toggleDarkMode }) {
   const [prevIsDarkMode, setPrevIsDarkMode] = useState(isDarkMode);
 
@@ -34,7 +34,7 @@ function AboutMe () {
     return (
       <section>
         <h2 style={{fontFamily: 'BlackOpsOne'}}>About Me</h2>
-        <img src="/NOZD0388.JPG" class="img-thumbnail" alt="..." style={{ width: '200px', height: '200px' }}></img>
+        <img src={hinh} class="img-thumbnail" alt= ".." style={{ width: '200px', height: '200px' }}/>
         <p className="paragraph" style={{fontFamily: 'IBMPlexMono_Regular'}}>
           Ngo Hai My <br/>
           Date of birth: 03/10/2004 <br/>
