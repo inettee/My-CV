@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/My-CV/static/css/main.332276e4.css",
-    "main.js": "/My-CV/static/js/main.27b3707a.js",
+    "main.js": "/My-CV/static/js/main.ccebf849.js",
     "static/js/787.21e21a2e.chunk.js": "/My-CV/static/js/787.21e21a2e.chunk.js",
+    "static/media/NOZD0388.jpg": "/My-CV/static/media/NOZD0388.4874611d10cd4947ae79.jpg",
     "static/media/RobotoMono-Italic-VariableFont_wght.ttf": "/My-CV/static/media/RobotoMono-Italic-VariableFont_wght.a53103a7b0e22765d7ff.ttf",
     "static/media/BlackOpsOne-Regular.ttf": "/My-CV/static/media/BlackOpsOne-Regular.b8437be32fe8faca71ed.ttf",
     "static/media/IBMPlexMono-Bold.ttf": "/My-CV/static/media/IBMPlexMono-Bold.270fc7685a99d1197e53.ttf",
     "static/media/IBMPlexMono-Regular.ttf": "/My-CV/static/media/IBMPlexMono-Regular.1509e8d24f8562f776e4.ttf",
     "index.html": "/My-CV/index.html",
     "main.332276e4.css.map": "/My-CV/static/css/main.332276e4.css.map",
-    "main.27b3707a.js.map": "/My-CV/static/js/main.27b3707a.js.map",
+    "main.ccebf849.js.map": "/My-CV/static/js/main.ccebf849.js.map",
     "787.21e21a2e.chunk.js.map": "/My-CV/static/js/787.21e21a2e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.332276e4.css",
-    "static/js/main.27b3707a.js"
+    "static/js/main.ccebf849.js"
   ]
 }
