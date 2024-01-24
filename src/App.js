@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import './font.css';
-import hinh from './picture/NOZD0388.jpg'
+import hinh from './NOZD0388.jpg'
 function Header({ isDarkMode, toggleDarkMode }) {
   const [prevIsDarkMode, setPrevIsDarkMode] = useState(isDarkMode);
 
