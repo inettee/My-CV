@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'BlackOpsOne';
+    src: url(./fonts/BlackOpsOne-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family: 'roboto';
+    src: url(./fonts/RobotoMono-Italic-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face{
+    font-family: 'IBMPlexMono_Bold';
+    src: url(./fonts/IBMPlexMono-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'IBMPlexMono_Regular';
+    src: url(./fonts/IBMPlexMono-Regular.ttf) format('truetype');
+}
