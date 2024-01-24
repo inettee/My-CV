@@ -34,7 +34,8 @@ function AboutMe () {
     return (
       <section>
         <h2 style={{fontFamily: 'BlackOpsOne'}}>About Me</h2>
-        <img src={hinh} class="img-thumbnail" alt= ".." style={{ width: '200px', height: '200px' }}/>
+        <img src={hinh} class="img-thumbnail" alt="..." style={{ width: '200px', height: '200px' }}></img>
+
         <p className="paragraph" style={{fontFamily: 'IBMPlexMono_Regular'}}>
           Ngo Hai My <br/>
           Date of birth: 03/10/2004 <br/>
